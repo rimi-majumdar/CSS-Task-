@@ -1,0 +1,63 @@
+body
+{   
+    background-color:light;
+}
+.colored-area
+{
+   height : 100px;
+   background-color: red;
+   margin-top : -70px;
+
+  
+}
+.second-area
+{
+    height : 400px;
+    background-color: aquamarine;
+    margin-top : 50px;
+}
+.third-area
+{
+    height : 100px;
+    background-color:bisque;
+}
+.fourth-area
+{
+    height : 330px;
+    width : 400px;
+    background-color: blue;
+    
+    margin-top: -460px;
+}
+.fifth-area
+{
+    height : 330px;
+    width : 1630px;
+    background-color:cadetblue ;
+    margin-top : -330px;
+    position : absolute;
+    right : 1000px;
+    left : 408px;
+}
+.box1
+{
+    height : 100px;
+    width : 100px;
+    background-color:yellow ;
+    position : absolute;
+    left : 410px;
+    right : 400px;
+    margin-top : -330px;
+}
+.box2
+{
+    height : 100px;
+    width : 100px;
+    background-color: yellowgreen;
+    position : absolute;
+    right : 1000px;
+    left : 1940px;
+    margin-top : -100px;
+}
+
+
